@@ -3,4 +3,53 @@
   padding: 0;
   box-sizing: border-box;
   scroll-behavior: smooth;
+  font-size: 18px;
+  font-family: 'Bai Jamjuree', sans-serif;
+}
+
+.main-container {
+  text-align: center;
+  /* width: 1400px; */
+}
+
+.heading {
+  margin: 3em 20%;
+}
+
+.sub-head {
+  color: hsl(210, 10%, 33%);
+  margin-bottom: 0.8em;
+  font-weight: 600;
+}
+
+.sub-head-paragraph {
+  color: hsl(171, 66%, 44%);
+}
+
+.sub-main-container {
+  display: flex;
+  margin: 0 5em;
+}
+
+.sub-container {
+  margin-left: 0.5em;
+  margin-right: 0.5em;
+  width: 33.33%;
+}
+
+.first {
+  margin-top: -0.4em;
+}
+
+.img-logo {
+  margin-bottom: 2em;
+  margin-top: 1em;
+}
+
+.product-container {
+  margin-top: 8em;
+}
+
+.img-product-logo {
+  margin: 0 2.5em;
 }
